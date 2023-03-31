@@ -1,7 +1,7 @@
 Summary:	Markdown URL utilities
 Name:		python-mdurl
 Version:	0.1.2
-Release:	1
+Release:	2
 Group:		Development/Python
 License:	MIT
 URL:		https://github.com/executablebooks/mdurl
